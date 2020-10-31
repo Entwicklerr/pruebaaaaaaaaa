@@ -10,7 +10,7 @@ $conn = mysqli_connect (
 );
 
 if (isset($conn)){
-    echo 'esta conectada';
+    echo 'esta conectadaaaaaaaaaa';
 }
 
 ?>
